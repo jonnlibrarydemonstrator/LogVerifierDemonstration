@@ -1,4 +1,4 @@
-# Bakery 
+# LogVerifierDemonstration 
 
 function for msgs
 
@@ -14,13 +14,6 @@ add jitpack.io in allprojects, in project gradle
         }
     }
 
-### Prerequisites
-
-  suport in module gradle
-
-    implementation "com.android.support:appcompat-v7:${yourversion}"
-    implementation "com.android.support:support-v4:${yourversion}"
-    implementation "com.android.support:design:${yourversion}"
   
 
 ### Installing
