@@ -39,7 +39,7 @@ add jitpack.io in allprojects, in project gradle
 
 * **J. A. Santos** - *Initial work* - development of free code
 
-See also the list of [contributor](https://github.com/master-killercode).
+See also the list of [contributor](https://github.com/jonnlibrarydemonstrator?tab=repositories).
 
 ## License
  development of free code
